@@ -1,12 +1,13 @@
 # Outputs of the programs
 ### first-program.c
-![image](https://github.com/dev-aashutosh/c-language/assets/149941495/05ac9104-28da-46a3-959f-b0956a8b68ed)
+![image](https://github.com/ashutoshh-jhaa/c_language/assets/170351582/3cca4c13-d5d2-49db-9fef-b9b23a2bd136)
 ### pattern.c
-![image](https://github.com/dev-aashutosh/c-language/assets/149941495/99d19f89-831a-4146-88c1-2e51a55eb8e6)
+![image](https://github.com/ashutoshh-jhaa/c_language/assets/170351582/55903422-b295-4d83-b7a2-ab1bb85e4a50)
 ### pattern1.c
-![image](https://github.com/dev-aashutosh/c-language/assets/149941495/8de9d313-c269-4d93-8832-d769663f2c2d)
+![image](https://github.com/ashutoshh-jhaa/c_language/assets/170351582/7b231a18-e6b8-4368-93c5-1c37daffd6c7)
 ### pattern2.c
-![image](https://github.com/dev-aashutosh/c-language/assets/149941495/f26f873a-9787-423a-8aab-274901319b0f)
+![image](https://github.com/ashutoshh-jhaa/c_language/assets/170351582/a87b8a30-8840-4fd3-a179-58ec7b1a98d3)
+
 
 
 
