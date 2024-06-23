@@ -1,22 +1,29 @@
 # Outputs of the programs
 ### electricity-charges.c
-![image](https://github.com/dev-aashutosh/c-language/assets/149941495/26c29cf0-cf8a-463b-962a-e7a9df5faf6d)
+![image](https://github.com/ashutoshh-jhaa/c_language/assets/170351582/6a87b140-be1e-4012-8ec3-1b0233227366)
+
 
 ### find-max-four-num.c
-![image](https://github.com/dev-aashutosh/c-language/assets/149941495/ed72275c-554a-4e0e-b2e8-3ed6a58957a2)
+![image](https://github.com/ashutoshh-jhaa/c_language/assets/170351582/f4efdde3-ef0a-4bc2-b584-f3bf8a6aa721)
+
 
 ### find-min-three-num.c
-![image](https://github.com/dev-aashutosh/c-language/assets/149941495/1a6d23ca-f65a-4688-8fe7-1a4bc67cb6eb)
+![image](https://github.com/ashutoshh-jhaa/c_language/assets/170351582/2ff6aef2-7123-482e-9809-3fe9ea1ed236)
+
 
 ### find-min-two-num-ternary.c
-![image](https://github.com/dev-aashutosh/c-language/assets/149941495/b9a49b37-94f4-4f99-8a33-fe80516ebf1d)
+![image](https://github.com/ashutoshh-jhaa/c_language/assets/170351582/5e697568-8f3d-422e-8c02-ddff3a3044da)
+
 
 ### find-min-two-num.c
-![image](https://github.com/dev-aashutosh/c-language/assets/149941495/bb4a0b3a-e93c-4551-b6e8-43718f93e748)
+![image](https://github.com/ashutoshh-jhaa/c_language/assets/170351582/2726a47a-f5b1-4f7c-a063-1973bc70205c)
+
 
 ### find-neutral.c
-![image](https://github.com/dev-aashutosh/c-language/assets/149941495/53a978f5-8f60-47f3-bbaf-35676f2231b9)
+![image](https://github.com/ashutoshh-jhaa/c_language/assets/170351582/b698e995-2bbc-4b50-907d-2e7654ab0d19)
+
 
 ### menu-driven-for-call-service.c
-![image](https://github.com/dev-aashutosh/c-language/assets/149941495/1f6ff389-cb1c-43a8-98a2-0372ef031e5d)
+![image](https://github.com/ashutoshh-jhaa/c_language/assets/170351582/ec282c5b-ef15-41da-85ca-2d71f94584b4)
+
 
