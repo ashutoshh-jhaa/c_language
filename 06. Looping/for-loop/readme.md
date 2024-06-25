@@ -1,21 +1,27 @@
 # Outputs of the programs
 ### count-num-digit.c
-![image-1](https://github.com/dev-aashutosh/c-language/assets/149941495/0f476389-437e-4f92-813c-d30b224bfe82)
+![image](https://github.com/ashutoshh-jhaa/c_language/assets/170351582/cac6d757-d6a9-4ef1-ae0e-a57bd4e1daae)
+
 
 ### factorial.c
-![image-1](https://github.com/dev-aashutosh/c-language/assets/149941495/d73d1144-5916-4738-ac85-58743d7307ce)
+![image](https://github.com/ashutoshh-jhaa/c_language/assets/170351582/b7cd4739-5de5-4d63-b61e-8105d4218b26)
+
 
 ### multiplication.c
-![image-2](https://github.com/dev-aashutosh/c-language/assets/149941495/b3ff7d32-88c4-4763-98b8-1e5b35198302)
+![image](https://github.com/ashutoshh-jhaa/c_language/assets/170351582/0ca59f15-4cdd-40c5-99e7-1254fb59f2a3)
+
 
 ### one-to-n.c
-![image](https://github.com/dev-aashutosh/c-language/assets/149941495/17c18ed2-83a6-4610-ae06-677ea6ed9f57)
+![image](https://github.com/ashutoshh-jhaa/c_language/assets/170351582/7ab2fbdc-0f66-4ac0-b5f1-e7b8426ee1ea)
+
 
 ### skip-letters.c
-![image](https://github.com/dev-aashutosh/c-language/assets/149941495/3daadcf4-d75f-41d8-ace9-8388dc7778eb)
+![image](https://github.com/ashutoshh-jhaa/c_language/assets/170351582/501d9079-ef11-4de4-bc4c-97fc4592e4c3)
+
 
 ### sum-first-last-digit.c
-![image-2](https://github.com/dev-aashutosh/c-language/assets/149941495/79604dcf-a260-4e72-847e-c370aa3f4cb8)
+![image](https://github.com/ashutoshh-jhaa/c_language/assets/170351582/d7322e42-f1d7-42ec-abe4-9d165667adf1)
+
 
 
 
