@@ -18,8 +18,8 @@ In this journey, I aim to:
 
 Here are some incredible resources that have been instrumental in shaping my learning journey:
 
-- [The C Programming Language by Brian Kernighan and Dennis Ritchie](link-to-book) 📖
-- [C Programming Tutorial on Tutorialspoint](link-to-tutorial) 💻
-- [C Programming Community on Reddit](link-to-community) 🌐
+- The C Programming Language by Brian Kernighan and Dennis Ritchie 📖
+- C Programming Tutorial on Tutorialspoint 💻
+- C Programming Community on Reddit 🌐
 
 Feel free to explore, learn, and grow alongside me! Let's unleash our creativity and make amazing things happen! 🌟
