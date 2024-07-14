@@ -1,8 +1,8 @@
 #include "stdio.h"
 
-int insertValues(int *, int n);
-int dispArray(int *, int n);
-int bsort(int *, int n);
+void insertValues(int *, int n);
+void dispArray(int *, int n);
+void bsort(int *, int n);
 
 int main()
 {
@@ -13,12 +13,14 @@ int main()
   int a[n]; // declared array of size n
 
   insertValues(a, n); // inserting values into array
-  printf("Original array : \n");
+  printf("Unsorted array : \n");
   dispArray(a, n); // display array
   bsort(a, n);     // bubble sorting algorithm
+
+  return 0;
 }
 
-int insertValues(int *a, int n)
+void insertValues(int *a, int n)
 {
   for (int i = 0; i < n; i++)
   {
@@ -26,23 +28,23 @@ int insertValues(int *a, int n)
     scanf("%d", (a + i));
   }
 }
-int dispArray(int *a, int n)
+void dispArray(int *a, int n)
 {
   for (int i = 0; i < n; i++)
   {
-    printf("a[%d] = %d\n", i, *(a + i));
+    printf("a[%d] = %d\`n", i, *(a + i));
   }
 }
 
-int bsort(int *a, int n)
+void bsort(int *a, int n)
 {
   int temp;
 
-  for (int i = 0; i < n - 1; i++) // number of passes is always one less than  the size of array
+  for (int i = 0; i < n - 1; i++) // outer loop for number of passes
   {
-    for (int j = 0; j < n - i - 1; j++)
+    for (int j = 0; j < n - i - 1; j++) // inner loop for each pass
     {
-      if ((*(a + j) > (*(a + j + 1))))
+      if ((*(a + j) > (*(a + j + 1)))) // swapping logic
       {
         temp = *(a + j);
         *(a + j) = *(a + j + 1);
