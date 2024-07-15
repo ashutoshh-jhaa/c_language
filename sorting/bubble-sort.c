@@ -32,7 +32,7 @@ void dispArray(int *a, int n)
 {
   for (int i = 0; i < n; i++)
   {
-    printf("a[%d] = %d\`n", i, *(a + i));
+    printf("a[%d] = %d\n", i, *(a + i));
   }
 }
 

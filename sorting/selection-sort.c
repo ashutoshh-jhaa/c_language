@@ -6,7 +6,7 @@ void selSort(int *a, int n)
     int minIndex = i;
     for (int j = i + 1; j < n; j++)
     {
-      if ((*(a + j)) < (*(a + i)))
+      if ((*(a + j)) < (*(a + minIndex)))
       {
         minIndex = j;
       }
