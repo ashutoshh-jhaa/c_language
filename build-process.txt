@@ -1,0 +1,44 @@
+Build Process in C
+
+1. Overview
+    The process of transforming C source code into an executable file involves several key steps: preprocessing, compilation, assembly, and linking. This overall process is referred to as "build". Various tools can automate these steps to manage complex projects.
+
+2. Steps in the Build Process
+    
+    a. Preprocessing
+    Function: Resolves macros and includes headers.
+    Output File: .i (preprocessed source code).
+    gcc -E filename.c -o filename.i
+    
+    b. Compilation
+    Function: Converts the preprocessed .i file into assembly code.
+    Output File: .s (assembly code).
+    gcc -S filename.i -o filename.s
+    
+    c. Assembly
+    Function: Converts assembly code .s into machine code.
+    Output File: .o (object file).
+    gcc -c filename.s -o filename.o
+    
+    d. Linking
+    Function: Combines object files and libraries to produce the final executable. The linker resolves references between the code in object files and the libraries.
+    Output File: .exe (or just the executable file on Unix-like systems).
+    gcc filename.o -o myprogram
+    
+3. Build Tools
+    Purpose
+    Build tools automate and manage the build process, handling multiple files, dependencies, and configurations efficiently.
+
+Common Build Tools
+    CMake: Generates build files for various build systems. Configuration via CMakeLists.txt.
+    Make: Uses Makefile to specify build rules and dependencies.
+    Ninja: A fast build system often used as a backend tool for CMake or other build systems.
+
+4. Compilers vs. Build Tools
+    Compilers (GCC, Clang)
+    Function: Handle preprocessing, compilation, assembly, and linking (to some extent) but are more suited for simpler projects.
+    Limitations: Directly managing large projects with many files and complex dependencies can be cumbersome without additional tools.
+
+Build Tools
+    Function: Automate the build process and manage complex projects.
+    Advantages: Handle complex dependencies, multiple files, different configurations, and cross-platform builds efficiently.
