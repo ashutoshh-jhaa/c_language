@@ -26,4 +26,6 @@ int main() {
   for (int i = 0; i < n; i++) {
     printf("array[%d] = %d\n", i, *(ptr + i));
   }
+
+  free(ptr);
 }

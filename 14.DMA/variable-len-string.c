@@ -14,6 +14,6 @@ int main() {
     i++;
   }
   str[i] = '\0';
-
+  free(str);
   printf("%s", str);
 }
