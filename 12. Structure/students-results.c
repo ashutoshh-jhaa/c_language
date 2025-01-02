@@ -16,7 +16,6 @@ void calRes(struct Student marks[], size_t size) {
            marks[i].rollNum, percentage);
   }
 }
-
 int main() {
   struct Student marks[5];
 
